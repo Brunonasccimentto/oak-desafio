@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oak-desafio/static/css/main.338d0a9e.css",
+    "main.js": "/oak-desafio/static/js/main.71f63cdb.js",
+    "static/js/453.e74a4329.chunk.js": "/oak-desafio/static/js/453.e74a4329.chunk.js",
+    "index.html": "/oak-desafio/index.html",
+    "main.338d0a9e.css.map": "/oak-desafio/static/css/main.338d0a9e.css.map",
+    "main.71f63cdb.js.map": "/oak-desafio/static/js/main.71f63cdb.js.map",
+    "453.e74a4329.chunk.js.map": "/oak-desafio/static/js/453.e74a4329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.338d0a9e.css",
+    "static/js/main.71f63cdb.js"
+  ]
+}
